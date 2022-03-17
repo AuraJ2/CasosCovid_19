@@ -182,7 +182,7 @@ public class FrmAlumnos extends javax.swing.JFrame {
                                 .addComponent(jButton2)
                                 .addGap(50, 50, 50)
                                 .addComponent(jButton3)
-                                .addGap(78, 78, 78)
+                                .addGap(75, 75, 75)
                                 .addComponent(jButton4)))
                         .addGap(0, 0, Short.MAX_VALUE)))
                 .addContainerGap(38, Short.MAX_VALUE))
